@@ -74,3 +74,7 @@ info() {
 		--msgbox "$2" \
 		"$3" "$4" # height, width -- 0, 0 is ugly.
 }
+
+unimplemented() {
+	info "Sorry!" "This feature isn't implemented yet.\nMake sure your system is up to date (see the ArchPOWER settings menu)" 7 50
+}
