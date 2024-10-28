@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Wii Linux Common Dialog Utilities version 1.0
+UTIL_VER_STR="Wii Linux Common Dialog Utilities version 1.0"
 
 DIALOG_COMMON="--no-mouse"
 DIALOG_CANCEL=1
